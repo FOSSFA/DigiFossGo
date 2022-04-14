@@ -1,0 +1,22 @@
+{"level":"INFO","ts":"2022-04-14T15:27:59.203+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:27:59.203+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:30:56.533+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:30:56.533+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:35:53.064+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:35:53.064+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:37:26.022+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:37:26.023+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:39:31.876+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:39:31.876+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:41:35.634+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:41:35.634+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:42:07.430+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:42:07.430+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:43:36.566+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:43:36.566+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:44:34.736+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:44:34.736+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:51:43.917+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:51:43.917+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}
+{"level":"INFO","ts":"2022-04-14T15:52:40.366+0430","caller":"zap/zap.go:43","msg":"Received interrupt, closing connection","section":"internal/application","function":"graceFullStop()","params":null}
+{"level":"INFO","ts":"2022-04-14T15:52:40.367+0430","caller":"zap/zap.go:43","msg":"Stopping bot...","section":"telegram/bot","function":"Stop() error","params":null}

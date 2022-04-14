@@ -1,0 +1,13 @@
+[
+    {
+        "groupID": 1,
+        "name": "foss",
+        "chatID": 123,
+        "setting": {
+            "maxWarns": 3,
+            "muteAfterWarn": true,
+            "timeToMute": 100000000
+        },
+        "users": null
+    }
+]

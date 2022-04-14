@@ -1,0 +1,30 @@
+Start = """
+Hello i'm DigiFoss !
+
+Send /help to get info on commands !
+"""
+GotAnError = """
+Oops !
+I got an error !
+try something else.
+"""
+
+AzanSohde = """
+azan shode dawsh !
+"""
+
+UntilAzan = """
+%s hours until azan
+"""
+
+Help = """
+my commands:
+
+/start -> shows start message
+
+/help -> this message
+
+/hungry <city> or /h <city> -> time until azan
+
+گشنمه <شهر> -> same as above
+"""

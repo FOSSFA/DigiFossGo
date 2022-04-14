@@ -1,0 +1,18 @@
+i18n:
+  bundle_path: "./build/i18n/"
+
+bot:
+  token: bot_token
+  use_proxy: true
+  proxy_address: "socks5://localhost:8080"
+  allowed_groups:
+    - 1234
+    - 123456
+
+log:
+  path: "./logs/zapLogger.log"
+
+database:
+  type: "json"
+  path: ./internal/db/json/test.json
+  json_indent: 4

@@ -1,0 +1,5 @@
+./build/config/config-main.yaml
+internal/db/json/database.json
+
+.idea
+./main
