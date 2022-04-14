@@ -3,7 +3,7 @@ package application
 import (
 	"github.com/amirhossein-ka/DigiFossGo/internal/config"
 	"github.com/amirhossein-ka/DigiFossGo/internal/repository/json"
-	service "github.com/amirhossein-ka/DigiFossGo/internal/service"
+	"github.com/amirhossein-ka/DigiFossGo/internal/service"
 	"github.com/amirhossein-ka/DigiFossGo/internal/telegram"
 	"github.com/amirhossein-ka/DigiFossGo/internal/telegram/bot"
 	"github.com/amirhossein-ka/DigiFossGo/pkg/logger"

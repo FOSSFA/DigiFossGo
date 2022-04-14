@@ -3,9 +3,11 @@ package config
 import (
 	"errors"
 	"fmt"
-	"gopkg.in/yaml.v3"
 	"os"
 	"path/filepath"
+
+	"github.com/kelseyhightower/envconfig"
+	"gopkg.in/yaml.v3"
 )
 
 var (
@@ -45,7 +47,12 @@ func parseConfig(path string, cfg *Config) (err error) {
 		return err
 	}
 	return nil
+} 
+
+func ParseEnv(cfg *Config) {
+  envconfig.MustProcess("bot", &cfg.Bot)
 }
+
 
 func SetConfig(c *Config) {
 	cfg = c

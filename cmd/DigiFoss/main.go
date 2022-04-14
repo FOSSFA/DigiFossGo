@@ -16,7 +16,8 @@ func init() {
 	parseCLI()
 	if err := config.Parse(cfgPath, cfg); err != nil {
 		log.Fatalln(err)
-	}
+	} 
+  config.ParseEnv(cfg)
 	config.SetConfig(cfg)
 }
 

@@ -1,8 +1,9 @@
 # syntax=docker/dockerfile:1
-FROM golang:1.18-alpine as builder
+FROM golang:1.18-alpine AS builder
 
 ENV GOOS=linux
 ENV CGO_ENABLED=0
+
 
 WORKDIR /app
 
@@ -15,5 +16,5 @@ RUN go mod download
 
 RUN go build -o bot ./cmd/DigiFoss/main.go
 
+cmd [ "sh" ]
 
-FROM alpine
